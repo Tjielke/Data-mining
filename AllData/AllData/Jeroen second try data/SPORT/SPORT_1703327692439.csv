@@ -1,0 +1,2 @@
+﻿type,startTime,sportTime(s),maxPace(/meter),minPace(/meter),distance(m),avgPace(/meter),calories(kcal)
+6,2023-11-21 23:00:41+0000,631,439.0,0.3942508101463318,558.0,1.129,127.0
